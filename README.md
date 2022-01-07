@@ -23,3 +23,6 @@
 # .gitignore
 [.gitignore](https://github.com/WavJaby/MinecraftPluginDevTool/blob/main/.gitignore)
 
+
+# update.bat
+[update.bat](https://github.com/ascv0228/Wcat_GUI/blob/main/Wcat_GUI/update.bat)
